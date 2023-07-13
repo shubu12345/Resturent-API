@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Pizza",
+        "price": 250,
+        "size": "medium",
+        "rating": 4.5,
+        "image": "https://images.pexels.com/photos/708587/pexels-photo-708587.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "hotel": "Hotel-bahar"
+    },
+    {
+        "name": "Burger",
+        "price": 300,
+        "size": "large",
+        "rating": 3.5,
+        "image": "https://images.pexels.com/photos/1841108/pexels-photo-1841108.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "hotel": "Hotel-Pai"
+    },
+    {
+        "name": "Donut",
+        "price": 200,
+        "size": "normal",
+        "rating": 5.0,
+        "image": "https://images.pexels.com/photos/913816/pexels-photo-913816.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "hotel": "Hotel-Niyaz"
+    },
+    {
+        "name": "cold-cake",
+        "price": 450,
+        "size": "large",
+        "rating": 4.0,
+        "image": "https://images.pexels.com/photos/7474243/pexels-photo-7474243.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "hotel": "Hotel-new-grand"
+    },
+    {
+        "name": "Ice-Cream",
+        "price": 300,
+        "size": "small",
+        "rating": 4.5,
+        "image": "https://images.pexels.com/photos/1362534/pexels-photo-1362534.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "hotel": "Hotel-new-grand"
+    },
+    {
+        "name": "Cold-drink",
+        "price": 150,
+        "size": "medium",
+        "rating": 3.0,
+        "image": "https://images.pexels.com/photos/2795026/pexels-photo-2795026.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "hotel": "Hotel-bahar"
+    }
+]
